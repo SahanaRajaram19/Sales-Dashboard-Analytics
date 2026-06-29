@@ -118,12 +118,3 @@ Documentation/Project_Report.docx
 
 ---
 
-## ⚠️ Limitations
-
-- Data covers Feb 2021 – Dec 2021 only; does not include returns, discounts, or tax
-- Profit figures are based on Cost of Goods only — overhead costs are not factored in
-- Slicer filters apply to all charts simultaneously; independent filtering requires separate pivot tables
-
----
-
-*Prepared by the Business Analysis Team | June 2026*
