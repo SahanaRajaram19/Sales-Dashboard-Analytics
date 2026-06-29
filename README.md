@@ -113,7 +113,7 @@ A single-page visual overview with four charts and interactive filters.
 
 Full project documentation including analysis, insights, and glossary is available in:
 ```
-Documentation/Project_Report.docx
+https://github.com/SahanaRajaram19/Sales-Dashboard-Analytics/blob/main/Sales_Dashboard_Analytics_Project/Documentation/SalesDashboard_Documentation.pdf
 ```
 
 ---
